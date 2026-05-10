@@ -64,9 +64,8 @@ Based on the measured distance, the system reacts in 3 levels:
 5. Click **Upload**
 
 ## Circuit Diagram
-(Add circuit diagram image here)
+![diagramme](screenshots/diagramme.png)
 
-## Screenshots
-(Add photos of the device here)
-## Screenshots
-(Add photos of the device here)
+##  Smart Assistive Device
+![lunette](screenshots/lunette.png)
+
