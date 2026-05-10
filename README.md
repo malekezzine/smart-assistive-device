@@ -5,7 +5,7 @@ impaired users navigate safely by detecting nearby obstacles
 in real time and alerting the user through audio and haptic feedback.
 
 ## Technologies Used
-- Arduino UNO
+- Arduino Nano
 - C/C++
 - HC-SR04 Ultrasonic Sensor
 - Buzzer
@@ -14,7 +14,7 @@ in real time and alerting the user through audio and haptic feedback.
 ## Components
 | Component | Purpose |
 |-----------|---------|
-| Arduino UNO | Main controller |
+| Arduino Nano | Main controller |
 | HC-SR04 Sensor | Obstacle detection |
 | Buzzer | Audio alert |
 | Vibration Motor | Haptic feedback |
@@ -59,12 +59,14 @@ Based on the measured distance, the system reacts in 3 levels:
 ## How to Run
 1. Connect the components according to the circuit diagram
 2. Open the `.ino` file in Arduino IDE
-3. Select your board: **Arduino UNO**
+3. Select your board: **Arduino Nano**
 4. Select the correct port
 5. Click **Upload**
 
 ## Circuit Diagram
 (Add circuit diagram image here)
 
+## Screenshots
+(Add photos of the device here)
 ## Screenshots
 (Add photos of the device here)
