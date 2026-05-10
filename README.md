@@ -162,10 +162,10 @@ The Arduino code is structured in 4 main parts:
 ## Screenshots
 
 ### Device Prototype
-![Prototype](screenshots/prototype.png)
+![Prototype](screenshots/prototype.jpeg)
 
 ### Circuit Simulation (Proteus)
-![Proteus Simulation](screenshots/diagramme.png)
+![Proteus Simulation](screenshots/diagramme.jpeg)
 
 ---
 
